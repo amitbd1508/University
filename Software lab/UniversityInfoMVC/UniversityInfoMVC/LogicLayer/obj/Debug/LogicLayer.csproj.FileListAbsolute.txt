@@ -1,0 +1,5 @@
+c:\users\blackflag\documents\visual studio 2015\Projects\UniversityInfoMVC\LogicLayer\bin\Debug\LogicLayer.dll
+c:\users\blackflag\documents\visual studio 2015\Projects\UniversityInfoMVC\LogicLayer\bin\Debug\LogicLayer.pdb
+c:\users\blackflag\documents\visual studio 2015\Projects\UniversityInfoMVC\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+c:\users\blackflag\documents\visual studio 2015\Projects\UniversityInfoMVC\LogicLayer\obj\Debug\LogicLayer.dll
+c:\users\blackflag\documents\visual studio 2015\Projects\UniversityInfoMVC\LogicLayer\obj\Debug\LogicLayer.pdb

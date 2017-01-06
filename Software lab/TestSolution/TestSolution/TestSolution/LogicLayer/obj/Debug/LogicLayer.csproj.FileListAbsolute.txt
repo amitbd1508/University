@@ -1,0 +1,10 @@
+E:\New Work Station [Edusoft Consaltants Ltd.]\TestSolution\TestSolution\LogicLayer\bin\Debug\LogicLayer.dll
+E:\New Work Station [Edusoft Consaltants Ltd.]\TestSolution\TestSolution\LogicLayer\bin\Debug\LogicLayer.pdb
+E:\New Work Station [Edusoft Consaltants Ltd.]\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+E:\New Work Station [Edusoft Consaltants Ltd.]\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.dll
+E:\New Work Station [Edusoft Consaltants Ltd.]\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\BlackFlag\Dropbox\TestSolution\TestSolution\TestSolution\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\BlackFlag\Dropbox\TestSolution\TestSolution\TestSolution\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\BlackFlag\Dropbox\TestSolution\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\BlackFlag\Dropbox\TestSolution\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\BlackFlag\Dropbox\TestSolution\TestSolution\TestSolution\LogicLayer\obj\Debug\LogicLayer.pdb
